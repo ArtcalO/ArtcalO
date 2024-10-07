@@ -1,5 +1,5 @@
 # 💫 About Me:
-C'est où with Pr. J2M From France
+C'est où with some PHD's from France<br>Wanna colaborate on AI Kirundi -English translation model<br>Help with remote jobs<br>Algorithms<br>Ask me about facts<br>NLP
 
 
 ## 🌐 Socials:
@@ -13,7 +13,7 @@ C'est où with Pr. J2M From France
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ArtcalO&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ArtcalO&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=ArtcalO&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
