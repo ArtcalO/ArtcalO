@@ -1,5 +1,5 @@
 # 💫 About Me:
-C'est où with some PHD's from France<br>Wanna colaborate on AI Kirundi -English translation model<br>Help with remote jobs<br>Algorithms<br>Ask me about facts<br>NLP
+Pyhton Devlopper | Software Developper at Palladium | Data.Fi Project
 
 
 ## 🌐 Socials:
